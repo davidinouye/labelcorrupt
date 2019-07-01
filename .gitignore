@@ -1,0 +1,9 @@
+data/*
+.*
+*.log
+*.pyc
+*.pyo
+*.pdf
+*.aux
+*.out
+*.synctex*
