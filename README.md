@@ -40,7 +40,7 @@ tests/ - Primarily includes a framework for performing synthetic experiments to 
 
 tests/notebooks - Includes a two demos to show how the modules can be used. Demos use synthetic data.
 
-# Reqiurements
+# Requirements
 Please use the `requirements.txt` file to create environment (merely used `conda list --export`).
 Note that code was developed using older modules than the current ones.
 In particular, the main module version numbers needed are below.
